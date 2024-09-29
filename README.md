@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Mutluhan</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
-<img src="https://i.pinimg.com/564x/e4/3b/30/e43b30464e7f8dfd8af62ab84909f436.jpg" alt="coding"/>
+
+<img align="center" src="https://i.pinimg.com/564x/e4/3b/30/e43b30464e7f8dfd8af62ab84909f436.jpg" alt="coding"/>
 
 
 - 🌱 I’m currently learning **React**
