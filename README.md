@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
 
-<img align="center" src="https://i.pinimg.com/564x/e4/3b/30/e43b30464e7f8dfd8af62ab84909f436.jpg" alt="coding"/>
+<img align="center" src="https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg" alt="coding"/>
 
 
 - 🌱 I’m currently learning **React**
