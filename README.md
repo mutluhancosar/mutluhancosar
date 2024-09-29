@@ -1,11 +1,9 @@
 
-
-<img src="https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg" alt="coding"/>
-
 <h1 align="center">Hi 👋, I'm Mutluhan</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mutluhancosar&label=Profile%20views&color=0e75b6&style=flat" alt="mutluhancosar" /> </p>
+<img src="https://i.pinimg.com/564x/e4/3b/30/e43b30464e7f8dfd8af62ab84909f436.jpg" alt="coding"/>
+
 
 - 🌱 I’m currently learning **React**
 
@@ -27,3 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mutluhancosar&show_icons=true&locale=en" alt="mutluhancosar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mutluhancosar&" alt="mutluhancosar" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mutluhancosar&label=Profile%20views&color=0e75b6&style=flat" alt="mutluhancosar" /> </p>
+
